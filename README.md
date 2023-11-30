@@ -10,7 +10,11 @@
 <h3 align="left">Python:</h3>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Python-Exercises">1 - Exercicios Python </a></p>
+<p><a href="https://github.com/JosiTubaroski/Programacao_com_Python/blob/main/README.md">1 - Instalação do Python, editor VS Code e extensões </a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Python-Exercises">2 - Exercicios Python </a></p>
 </div> 
 
 
