@@ -14,7 +14,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Inter">2 - Como funciona o interpretador do Python? </a></p>
+<p><a href="https://github.com/JosiTubaroski/Inter">2 - Um pouco sobre: Interpretador do Python. </a></p>
 </div> 
 
 <div> 
