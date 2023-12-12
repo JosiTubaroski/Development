@@ -18,11 +18,15 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Python-Exercises">3 - Exercicios Python (Iniciantes) </a></p>
+<p><a href="https://github.com/JosiTubaroski/Blibliotecas_Python">3 - Instalando Bibliotecas Python. </a></p>
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/ETL_com_python">4 - ETL com Python </a></p>
+<p><a href="https://github.com/JosiTubaroski/Python-Exercises">4 - Exercicios Python (Iniciantes) </a></p>
+</div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/ETL_com_python">5 - ETL com Python </a></p>
 </div> 
 
 
