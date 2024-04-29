@@ -29,8 +29,11 @@
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python">5 - ETL com Python </a></p>
 </div> 
 
-<h3 align="left">Delphy:</h3>
+<h3 align="left">Delphi:</h3>
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Delphi">1 - Um pouco sobre: A historia e evolução do Delphi. </a></p>
+</div> 
 
 
 
