@@ -1,13 +1,13 @@
 # Development
 
 
-<h3 align="left">Node.JS:</h3>
+#### ✨ Node.JS:
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Node_JS">1 - Exercicios Node.JS </a></p>
 </div> 
 
-<h3 align="left">Python:</h3>
+#### ✨ Python:
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Instala_Python_VSCode_Extencoes/blob/main/README.md">1 - Instalação do Python, editor VS Code e extensões </a></p>
@@ -29,7 +29,13 @@
 <p><a href="https://github.com/JosiTubaroski/ETL_com_python">5 - ETL com Python </a></p>
 </div> 
 
-<h3 align="left">Delphi:</h3>
+#### ✨ Desenvolvimento WEB API com .NET8 e SQLServer:
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">1 -  </a></p>
+</div> 
+
+#### ✨ Delphi:
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Delphi">1 - Um pouco sobre: A historia e evolução do Delphi. </a></p>
