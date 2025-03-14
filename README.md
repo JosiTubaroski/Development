@@ -38,7 +38,7 @@
 #### ✨ Subindo seu projeto no github
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">1 -  Subindo seu projeto no github</a></p>
+<p><a href="https://github.com/JosiTubaroski/Subir_Projeto_Github">1 -  Subindo seu projeto no github</a></p>
 </div> 
 
 #### ✨ Delphi:
