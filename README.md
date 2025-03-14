@@ -35,6 +35,12 @@
 <p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">1 -  Desenvolvimento WEB API com .NET8 e SQLServer</a></p>
 </div> 
 
+#### ✨ Subindo seu projeto no github
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">1 -  Subindo seu projeto no github</a></p>
+</div> 
+
 #### ✨ Delphi:
 
 <div> 
