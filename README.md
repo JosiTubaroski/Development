@@ -32,25 +32,25 @@
 #### ✨ Desenvolvimento WEB API com .NET8 e SQLServer:
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">1 -  Desenvolvimento WEB API com .NET8 e SQLServer</a></p>
+<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">Desenvolvimento WEB API com .NET8 e SQLServer</a></p>
 </div> 
 
 #### ✨ Projeto Full Stack Angular 16 + .NET:
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET">1 -  Projeto Full Stack Angular 16 + .NET</a></p>
+<p><a href="https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET">Projeto Full Stack Angular 16 + .NET</a></p>
 </div> 
 
 #### ✨ Subindo seu projeto no github
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Subir_Projeto_Github">1 -  Subindo seu projeto no github</a></p>
+<p><a href="https://github.com/JosiTubaroski/Subir_Projeto_Github">Subindo seu projeto no github</a></p>
 </div> 
 
 #### ✨ Delphi:
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Delphi">1 - Um pouco sobre: A historia e evolução do Delphi. </a></p>
+<p><a href="https://github.com/JosiTubaroski/Delphi">Um pouco sobre: A historia e evolução do Delphi. </a></p>
 </div> 
 
 
