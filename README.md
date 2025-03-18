@@ -4,7 +4,7 @@
 #### ✨ Node.JS:
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Node_JS">1 - Exercicios Node.JS </a></p>
+<p><a href="https://github.com/JosiTubaroski/Node_JS">Exercicios Node.JS </a></p>
 </div> 
 
 #### ✨ Python:
