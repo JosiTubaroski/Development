@@ -35,6 +35,12 @@
 <p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">1 -  Desenvolvimento WEB API com .NET8 e SQLServer</a></p>
 </div> 
 
+#### ✨ Projeto Full Stack Angular 16 + .NET:
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET">1 -  Projeto Full Stack Angular 16 + .NET</a></p>
+</div> 
+
 #### ✨ Subindo seu projeto no github
 
 <div> 
