@@ -44,7 +44,7 @@
 ### Hangfire
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/NET8_HangFire/tree/main">Projeto Full Stack Angular 16 + .NET</a></p>
+<p><a href="https://github.com/JosiTubaroski/NET8_HangFire/tree/main">Projeto HangFire</a></p>
 </div> 
 
 
