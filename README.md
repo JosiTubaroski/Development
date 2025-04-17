@@ -41,6 +41,13 @@
 <p><a href="https://github.com/JosiTubaroski/-FullStackAngular_16_-_.NET">Projeto Full Stack Angular 16 + .NET</a></p>
 </div> 
 
+### Hangfire
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/NET8_HangFire/tree/main">Projeto Full Stack Angular 16 + .NET</a></p>
+</div> 
+
+
 #### ✨ Subindo seu projeto no github
 
 <div> 
